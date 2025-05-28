@@ -8,8 +8,10 @@
 /* colors */
 :root {
     --bg-color: #ffffff;
-    --default-color: #272829;@    --heading-color: #050d18;
+    --default-color: #272829;
+    --heading-color: #050d18;
     --accent-color: #149ddd;
+    --accent-color-hover: #0f7bcf;
     --nav-color: #a8a9b4;
     --bg-color-mobile: #040b14;
 }
